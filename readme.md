@@ -43,6 +43,7 @@ GNU General Public License version 3.0
 
 --------------------------------------------------------------------------------------------------------
 ## Support
-if you have any questions or issues, feel free to reach out to [martinpereira1976@hotmail.com]
+if you have any questions or issues, feel free to reach out to :
+            email : [martinpereira1976@hotmail.com]
 <br>
 Linkedlin : https://www.linkedin.com/in/martin-pereira-developer/
