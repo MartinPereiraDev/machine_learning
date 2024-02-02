@@ -7,7 +7,6 @@ Linear predictions
 - [Installation](#installation)
 - [Contributing](#contributing)
 
-- [Functions](#functions)
 
 - [License](#license)
 - [Support](#support)
@@ -24,6 +23,7 @@ Linear predictions
 
 <br>
 --------------------------------------------------------------------------------------------------------
+
 ## Contributing
 if you have contributing.
 <br> 
@@ -39,7 +39,7 @@ Submit a pull request.
 
 --------------------------------------------------------------------------------------------------------
 ## License 
-Public 
+GNU General Public License version 3.0 
 
 --------------------------------------------------------------------------------------------------------
 ## Support
